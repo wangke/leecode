@@ -7,6 +7,7 @@
 
  //1. 类没有定义对象的时候不能调用其中的函数，除了static函数
  //2. 两个大int相加产生的越界
+ //3. 写久了python 写 c++ 真是累啊。。。
 
 #include<iostream>
 using namespace std;
